@@ -1,9 +1,11 @@
-# Animated Organic Rings Art 🦋 - PURE CSS ✨
+# [Live Demo](https://animated-ring-art.vercel.app/)
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/konstantindenerz/pen/jOeKXmB](https://codepen.io/konstantindenerz/pen/jOeKXmB).
+# Animated Rings Art - PURE CSS ✨
 
-Generative art to demonstrate the  usage of SCSS @function and CSS trig functions.
+## This website is specifically designed and developed for the purpose of practice and skill enhancement.
 
-🍿 I recommend viewing on large screens.
+## Generative art to demonstrate the  usage of SCSS @function and CSS trig functions.
 
-✅ No extra HTML, no JS required. 
+## Technologies Use:
+- HTML
+- CSS
